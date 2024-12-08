@@ -1,7 +1,5 @@
 # ENTRI-Module-5-Machine-Learning-project
 
-Here’s a sample README.md file you can use for your project:
-
 Car Price Prediction Using Machine Learning
 Project Overview
 This project focuses on predicting car prices in the American market using machine learning models. A Chinese automobile company is planning to enter the US market and wants to understand the factors affecting car prices. By leveraging a dataset of car features and prices, we build and evaluate multiple regression models to identify significant predictors of car price and recommend the best-performing model.
